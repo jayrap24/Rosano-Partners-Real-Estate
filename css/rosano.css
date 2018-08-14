@@ -1,0 +1,89 @@
+body{
+    background: #e8e9ea;
+    
+}
+
+
+.navbar-custom {
+    background-color: #2f2f2f;
+    border-radius: 0;
+}
+
+.navbar-brand{
+    color: white;
+    padding: 30px;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 21px;   
+}
+#commercial .navbar-brand{
+    color: white;
+    padding: 30px;
+    margin: auto;   
+}
+#signIn{
+    width: 200px;
+    padding: 9px;
+    margin:auto auto;
+}
+
+#signIn li a{
+    color: white;
+}
+
+
+.secondCustom{
+    margin-top: -20px;
+}
+
+ .secondNav {
+    background-color: none;
+    height: 100px;
+    width: 100%;
+    margin-top: -20px;
+}
+
+.secondNavUl{
+    background: #4c4c4c;
+    width:100%;
+    margin:auto;
+    height: 50%;
+    list-style-type:none;      
+}
+.secondNavUl ul li a{
+    color: white;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 15px; 
+}
+.caret{
+    color: #49bc07; 
+}
+
+#videoBody img{
+    width:100%;
+    height: 800px;
+    margin-top: -20px;
+    border-radius: 5px;
+}
+
+#people{
+    background: red;
+    padding: 20px;
+}
+#technology{
+    background: red;
+    padding: 20px;
+}
+
+#process{
+    background: red;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
